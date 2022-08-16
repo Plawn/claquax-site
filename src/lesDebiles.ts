@@ -26,7 +26,7 @@ export const debiles: UnDebile[] = [
 {
     id: 2,
     name: "Lucas Boulard",
-    photoUrl: "https://documents.junior-entreprises.com/kiwi-public/user/43990/profile/1090875e-417f-4518-8b44-60b9833a2cde.png",
+    photoUrl: "",
     bio: "wow",
     items: [],
     score: 1,
