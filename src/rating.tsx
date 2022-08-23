@@ -1,6 +1,5 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import Rating from '@mui/material/Rating';
+import React from 'react';
+import { Box, Rating } from '@mui/material';
 import StarIcon from '@mui/icons-material/Star';
 
 const labels: { [index: string]: string } = {
@@ -17,10 +16,10 @@ const labels: { [index: string]: string } = {
 };
 
 interface Rating {
-    value: number
+  value: number
 }
 
-export default function TextRating(props:Rating) {
+export default function TextRating(props: Rating) {
 
   return (
     <Box
