@@ -1,7 +1,7 @@
 .App {
     text-align: center;
-    background: linear-gradient(29deg, #ffab00, #a80fe1);
-    background-size: 300% 300%;
+    background: linear-gradient(29deg, #ffaa008d, #a80fe18d);
+    background-size: 600vw 600vh;
     -webkit-animation: BackgroundGradient 4s ease infinite;
     -o-animation: BackgroundGradient 4s ease infinite;
     animation: BackgroundGradient 4s ease infinite;
